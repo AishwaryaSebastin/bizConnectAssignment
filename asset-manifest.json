@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bizConnectAssignment/static/css/main.ab533a8e.css",
+    "main.js": "/bizConnectAssignment/static/js/main.c1caec04.js",
+    "index.html": "/bizConnectAssignment/index.html",
+    "main.ab533a8e.css.map": "/bizConnectAssignment/static/css/main.ab533a8e.css.map",
+    "main.c1caec04.js.map": "/bizConnectAssignment/static/js/main.c1caec04.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab533a8e.css",
+    "static/js/main.c1caec04.js"
+  ]
+}
